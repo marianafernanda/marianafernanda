@@ -1,9 +1,17 @@
 <h1 align="center">Olá 👋, Meu nome é Mariana</h1>
 <h3 align="center">Uma desenvolvedora de software em formação e graduanda em análise e desenvolvimento de sistemas</h3>
 
+- 🔭 Comecei os meus estudos em programação na Trybe no final de 2021.
+
+- 👯 Me identifico mais com Back-End.
+
+- 🤝 Gosto de trocar ideias e experiências com outras pessoas, visando a parceria e o aprendizado.
+
 - 🌱 Atualmente estou aprendendo **Docker, Node.js, SQL, TypeScript e Express**
 
 - 📫 Você pode entrar em contato comigo através do e-mail **ariana.fernanda@icloud.com**
+
+- 📑 Possuo experiência em análise e consultoria de sites.
 
 - ⚡ Curiosidade: **Viciada em pilates 🤸**
 
