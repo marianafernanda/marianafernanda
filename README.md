@@ -7,7 +7,7 @@
 
 - 🤝 Gosto de trocar ideias e experiências com outras pessoas, visando a parceria e o aprendizado.
 
-- 🌱 Atualmente estou aprendendo **Docker, Node.js, SQL, TypeScript e Express**
+- 🌱 Atualmente estou aprendendo **Docker, Node.js, SQL, TypeScript, Express e MongoDB**
 
 - 📫 Você pode entrar em contato comigo através do e-mail **ariana.fernanda@icloud.com**
 
